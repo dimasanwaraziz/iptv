@@ -9,12 +9,13 @@ https://av-ch-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive
 #KODIPROP.inputstream.adaptive.manifest_type=mpd
-#KODIPROP.inputstream.adaptive.drm_legacy=com.widevine.alpha|https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#KODIPROP.inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP.inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="RCTI-WV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Frcti.jfif?alt=media&token=7c17a756-2f1b-45b8-abb4-f8407c0539eb" group-title="Lokal FTA",RCTI+
+#EXTINF:-1 tvg-id="rctiplus" tvg-name="RCTI Plus" group-title="Lokal FTA",RCTI Plus
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 tvg-name="MDTV" tvg-id="MDTV.id" tvg-logo="https://example.com/logo/mdtv.png" group-title="Lokal FTA",MDTV
+#EXTINF:-1 tvg-name="MDTV" tvg-id="MDTV.id" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FNET-TV.jpg?alt=media&token=d156d3e5-25d3-47a8-88fd-c703761c65aa" group-title="Lokal FTA",MDTV
 #EXTVLCOPT:http-referrer=https://vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
