@@ -10,17 +10,17 @@ https://av-ch-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP.inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi|Content-Type=application/octet-stream|R{SSM}|
+#KODIPROP.inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi||R{SSM}|
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="rctiplus" tvg-name="RCTI Plus" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Frcti.jfif?alt=media&token=7c17a756-2f1b-45b8-abb4-f8407c0539eb" group-title="Lokal FTA",RCTI+
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 tvg-id="908",ORF 1
+#EXTINF:-1 tvg-id="908" tvg-logo="1098.png",ORF 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=qwNmOkmS0vhRx%2BObWgIGpqdWoD3naAdZFn3dzmksF8lSxtbwSvp1MTd0gRKkZP2swdCFOagLdmGfunGwcTK%2FUUUJ%2F8L9B2ExpKcLmmNFCk40%2B2FdVhX3HZ%2BbfY8t9WCwS%2F3AHC25ssKsvm%2BngHhEfycwrTyhrlZdb8wda7bwgPyXl08xhsvyRuoBUIcar6zKLKkXLA3HaAY863uYfQVjmZbhL%2B689B5y39pCnHFvXYC1VKXUdNafpdLiGwD2lJr9|Content-Type=application/octet-stream|R{SSM}|
-https://orf1.mdn.ors.at/orf/orf1/drmqxa/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=S2j11H%2FIuaQd%2BtrybOtWbYK9rDoSAbJyNqzAW1RHwN9KQiVDbFpVNNxgfZRujt%2BLpJJrCVbe%2B%2FobwLgUzYS5UOj2lbXRgFOOvc%2BJFShNnD0m7MMSfFGV1Zm7Kwp4KWMVFJfyW7XyLJqW%2Bp7XeBiFGkchcAbw3EBUupCC0pbpYhRDp0ddnXuud5hmkUhRmzVO24nuUr%2FSB9dILoclxYoXyaOyuARdPCgxG%2F52UaiYAxfLGe%2BwcwOMnzef2mHPMkVD||R{SSM}|
+https://orf1.mdn.ors.at/out/u/orf1/drmqxa/manifest.mpd
 
 #EXTINF:-1 tvg-name="MDTV" tvg-id="MDTV.id" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FNET-TV.jpg?alt=media&token=d156d3e5-25d3-47a8-88fd-c703761c65aa" group-title="Lokal FTA",MDTV
 #EXTVLCOPT:http-referrer=https://vidio.com
